@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.huangyu.moduleb">
+
+    <application>
+        <activity
+            android:name="com.huangyu.moduleb.ModuleBActivity"
+            android:label="@string/module_b_app_name"
+            android:launchMode="singleTask"/>
+    </application>
+
+</manifest>

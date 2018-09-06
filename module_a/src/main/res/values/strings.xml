@@ -1,0 +1,4 @@
+<resources>
+    <string name="module_a_app_name">ModuleA</string>
+    <string name="module_a_to_module_b">ToModuleB</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComponentFramework</string>
+    <string name="to_module_a">ToModuleA</string>
+    <string name="to_module_b">ToModuleB</string>
+</resources>
